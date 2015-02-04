@@ -1,5 +1,5 @@
 name: aims-paging
-version: 1.0-SNAPSHOT
+version: 1.0.0
 description: "Aims gui pagination component"
 dependencies:
   browser: ">=0.10.0+2 <0.11.0"
